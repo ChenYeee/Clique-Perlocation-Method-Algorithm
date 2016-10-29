@@ -1,0 +1,19 @@
+a b c d
+b a c d i j
+c a b d f g h i j
+d a b c e f
+e d f
+f c d e g h i j
+g c f h b’ c’ d’
+h c f g i j b’
+i b c f h j
+j b c f h i
+b’ g c’ d’ i’ j’ h
+c’ g b’ d’ f’ g’ h’ i’ j’
+d’ g b’ c’ e’ f’
+e’ d’ f’
+f’ c’ d’ e’ g’ h’ i’ j’
+g’ c’ f’ h’
+h’ c’ f’ g’ i’ j’
+i’ b’ c’ f’ h’ j’
+j’ b’ c’ f’ h’ i’
